@@ -1,13 +1,13 @@
 {
-  "recomendations": [
-    {
-      "firstName": "Charles",
-      "lastName": "Xavier",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Professor_Charles_%27X%27_Xavier.png/220px-Professor_Charles_%27X%27_Xavier.png",
-      "company": "Escuela para jóvenes talentos",
-      "jobTitle": "Director",
-      "text": "Coloso es una parte integral de la patrulla y sin el muchos de nuestros esfuerzos hubiesen sido en vano al combatir a cualquiera de los peligros a los que estamos obligados a responder.",
-      "createdAt": "02/19/95, 12:00 PM"
-    }
-  ]
-}
+    "recomendations": [
+      {
+        "firstName": "Charles",
+        "lastName": "Xavier",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Professor_Charles_%27X%27_Xavier.png/220px-Professor_Charles_%27X%27_Xavier.png",
+        "company": "Escuela para jóvenes talentos",
+        "jobTitle": "Director",
+        "text": "Coloso es una parte integral de la patrulla y sin el muchos de nuestros esfuerzos hubiesen sido en vano al combatir a cualquiera de los peligros a los que estamos obligados a responder.",
+        "createdAt": "02/19/95, 12:00 PM"
+      }
+    ]
+  }

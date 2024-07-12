@@ -6,33 +6,29 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Coloso",
-      "surnames": "Pyotr Rasputin",
-      "title": "X-Men, pintor y granjero",
-      "description": "Nació en una granja colectiva en la antigua Unión Soviética llamada «El Lago Cercano», colectivo Baikal Ust-Ordynski en Siberia. Vivió allí con su madre Alexandra, padre Nikolai y hermana pequeña, Illyana. Su hermano mayor, Mikhail, había sido astronauta ruso y había muerto, al parecer, en un accidente espacial. Las habilidades mutantes de Peter se despertaron durante su adolescencia, cuando un tractor fuera de control iba directo hacia su hermana. El profesor Charles Xavier supo de su existencia y entró en contacto con él. Xavier reclutaba un nuevo equipo de X-Men para rescatar al equipo original, cuya mayor parte había sido capturada por la isla viviente mutante, llamada Krakoa.",
+      "name": "David",
+      "surnames": "Zamora Rey",
+      "title": "Frontend Developer",
+      "description": "Soy un programador y desarrollador frontend, comencé mi carrera profesional en 2018, programando con Java, pero una vez que descubrí la web me apasionó y ahora trabajo profesionalmente 100% con Angular. Me gusta curiosear sobre nuevas tecnologias y features incluidas en las versiones nuevas de las que ya conozco, con el objetivo de mejorar mis habilidades y mantenerme siempre al día.  En mis proyectos paralelos intento aprender otras tecnologías como React, Astro y Next.js.",
       "avatar": {
-        "link": "https://s3.amazonaws.com/comicgeeks/characters/avatars/18069.jpg?t=1664737987",
-        "alt": "https://s3.amazonaws.com/comicgeeks/characters/avatars/18069.jpg?t=1664737987"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/e9a3a374-117b-4936-8a37-9365d1ac8c55_linkedin-photo-65120.linkedin-photo-65120",
+        "alt": "24/07/12/e9a3a374-117b-4936-8a37-9365d1ac8c55_linkedin-photo-65120.linkedin-photo-65120"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJO_V_mGOsQw0RLkkHLC5wCoA)",
-        "country": "EEUU",
-        "region": "Unknow",
-        "municipality": "Utopía"
+        "notes": "Autocompleted using Google Maps API (id: ChIJcUElzOzMQQwRLuV30nMUEUM)",
+        "country": "España",
+        "region": "Canarias",
+        "municipality": "Santa Cruz de Tenerife"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://es.wikipedia.org/wiki/Coloso_(personaje)"
+        "URL": "https://linkedin.com/in/davidzamorarey"
       },
       {
         "type": "github",
-        "URL": "https://github.com/MiguelZamoraRey/astro-manfred-portfolio"
-      },
-      {
-        "type": "other",
-        "URL": "https://es.wikipedia.org/wiki/Coloso_(personaje)"
+        "URL": "https://github.com/DavidZam"
       }
     ]
   },
@@ -40,37 +36,58 @@
     "jobs": [
       {
         "organization": {
-          "name": "X-MEN",
+          "name": "ESW",
           "image": {
-            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/X_symbol_from_X-Men_logo.svg/480px-X_symbol_from_X-Men_logo.svg.png",
-            "alt": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/X_symbol_from_X-Men_logo.svg/480px-X_symbol_from_X-Men_logo.svg.png"
-          },
-          "URL": "https://es.wikipedia.org/wiki/X-Men"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/b421edfd-80e9-4a61-9901-88f76a577310_linkedin-photo-65120.linkedin-photo-65120",
+            "alt": "24/07/12/b421edfd-80e9-4a61-9901-88f76a577310_linkedin-photo-65120.linkedin-photo-65120"
+          }
         },
         "roles": [
           {
-            "name": "Miembro con honores",
-            "startDate": "1975-05-01",
+            "name": "Software Engineering",
+            "startDate": "2024-02-01",
             "challenges": [
               {
-                "description": "Desde su llegada con los X-Men, Coloso cautivó con su serenidad, altruismo y nobleza. En un viaje a la Tierra Salvaje, la jungla prehistórica escondida en la Antártida, Coloso conoció a una nativa llamada Nereel, con la que tuvo un romance y engendró un hijo, cuya existencia Coloso ignoró por muchos años."
+                "description": "Desarrollo frontend con Angular y Typescript.\nProyecto centrado en el UI del checkout de un cliente de la compañia."
               }
             ],
             "competences": [
               {
-                "name": "CSS",
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
-                "name": "Google Cloud",
+                "name": "Jest",
                 "type": "technology"
               },
               {
-                "name": "Google Cloud Firestore",
+                "name": "TypeScript",
                 "type": "technology"
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Scalefast",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/bc49f201-2866-4c30-b516-ce8b44540886_linkedin-photo-65120.linkedin-photo-65120",
+            "alt": "24/07/12/bc49f201-2866-4c30-b516-ce8b44540886_linkedin-photo-65120.linkedin-photo-65120"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador senior",
+            "startDate": "2020-07-01",
+            "challenges": [
               {
-                "name": "HTML",
+                "description": "Desarrollo fullstack con Angular y PHP.\nDiversos proyectos relacionados con e-commerce."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
@@ -78,41 +95,100 @@
                 "type": "technology"
               },
               {
-                "name": "React",
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
           }
         ]
-      }
-    ],
-    "projects": [
+      },
       {
-        "details": {
-          "name": "Vencer a Juggernaut",
-          "description": "Después de que el supervillano Juggernaut se convirtió en la entidad conocida como Kuurth: Breaker of Stone, uno de los Heraldos del dios del miedo conocido como la Serpiente, Coloso hizo un trato con Cyttorak, el ser de otra dimensión que originalmente empoderó a Juggernaut, con el fin de obtener el poder para enfrentarse a Kuurth. Coloso se convirtió en el nuevo avatar del Juggernaut. Esta decisión hizo que Kitty rompiera con Coloso.",
-          "URL": "https://es.wikipedia.org/wiki/Coloso_(personaje)"
+        "organization": {
+          "name": "Atos",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/7724ff28-861e-4ff1-b7de-3c0a800c8337_linkedin-photo-65120.linkedin-photo-65120",
+            "alt": "24/07/12/7724ff28-861e-4ff1-b7de-3c0a800c8337_linkedin-photo-65120.linkedin-photo-65120"
+          }
         },
-        "type": "sideProject",
         "roles": [
           {
-            "name": "Developer",
-            "startDate": "1980-02-01",
+            "name": "Desarrollador full stack",
+            "startDate": "2019-07-01",
+            "finishDate": "2020-07-31",
+            "challenges": [
+              {
+                "description": "Desarrollo frontend con Angular y Typescript.\nProyecto de desarrollo de una aplicación para los sanitarios del SAMUR."
+              }
+            ],
             "competences": [
               {
-                "name": "Astro",
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "everis",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/ebb3bd00-ee99-485a-9cda-5cfe39c15912_linkedin-photo-65120.linkedin-photo-65120",
+            "alt": "24/07/12/ebb3bd00-ee99-485a-9cda-5cfe39c15912_linkedin-photo-65120.linkedin-photo-65120"
+          }
+        },
+        "roles": [
+          {
+            "name": "Solutions Assistant",
+            "startDate": "2018-10-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "Desarrollo fullstack con Angular y C#.\nProyecto de desarrollo sobre la página web de una inmobiliaria."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
-                "name": "HTML",
+                "name": "C#",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Complutense de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/c3925175-83f1-43b4-ba83-10e8705cfc13_linkedin-photo-65120.linkedin-photo-65120",
+            "alt": "24/07/12/c3925175-83f1-43b4-ba83-10e8705cfc13_linkedin-photo-65120.linkedin-photo-65120"
+          }
+        },
+        "roles": [
+          {
+            "name": "Becario de software",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-10-31",
+            "challenges": [
+              {
+                "description": "Infraestructura de red, web y de sistemas"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
                 "type": "technology"
               }
             ]
@@ -126,120 +202,24 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Native or bilingual proficiency"
+        "level": "Full professional proficiency"
       },
       {
-        "name": "RS",
-        "fullName": "Ruso",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SOLID",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Astro",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Fastify",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS SQS Queue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS SNS Queue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
+          "name": "C#",
           "type": "technology"
         }
       },
@@ -251,50 +231,67 @@
       },
       {
         "skill": {
-          "name": "Google Cloud Firestore",
+          "name": "Java",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Google Firebase",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Jest",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Mongoose",
+          "name": "NgRx",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-
-      {
-        "skill": {
-          "name": "React Native",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Godot",
+          "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RxJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -303,12 +300,78 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Mutante graduado",
-        "startDate": "1975-01-01",
+        "name": "Grado en ingenieria informatica, Ingeniería informática",
+        "startDate": "2012-01-01",
         "institution": {
-          "name": "Escuale Xavier para jóvenes talentos"
+          "name": "Facultad de Informática (Universidad Complutense de Madrid)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/29e5a53e-0c98-4f4e-ac19-a760fb1ba106_linkedin-photo-65120.linkedin-photo-65120",
+            "alt": "24/07/12/29e5a53e-0c98-4f4e-ac19-a760fb1ba106_linkedin-photo-65120.linkedin-photo-65120"
+          }
         },
-        "finishDate": "1976-01-01"
+        "finishDate": "2018-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Testing en frontend",
+        "startDate": "2024-07-01",
+        "institution": {
+          "name": "Codely.com",
+          "description": "Curso cómo testear tus aplicaciones frontend, aplicando buenas prácticas",
+          "URL": "http://pro.codely.com/library/testing-en-frontend-65916/register/196940/?ic=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGVfdHlwZSI6MSwic2VuZGVyX2lkIjoxOTUwMTM5LCJzY2hvb2xfaWQiOjEzMTcyLCJvZmZlcmluZ19pZCI6MTk2OTQwLCJyb2xlIjo1LCJpYXQiOjE3MjA3OTM1MjV9.wXqG9",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/ecdec319-4a5d-4e93-922f-193707173912_testing-en-frontend_.jpg",
+            "alt": "testing-en-frontend_page-0001.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "TypeScript Avanzado: Más allá de any",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "Codely.com",
+          "description": "Curso sobre aspectos avanzados de Typescript",
+          "URL": "http://pro.codely.com/library/typescript-avanzado-mas-alla-de-any-182513/register/418230/?ic=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGVfdHlwZSI6MSwic2VuZGVyX2lkIjoxOTUwMTM5LCJzY2hvb2xfaWQiOjEzMTcyLCJvZmZlcmluZ19pZCI6NDE4MjMwLCJyb2xlIjo1LCJpYXQiOjE3M",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/c55ab719-9e31-47f1-9d63-4d576f45dfc1_typescript-avanzado-.jpg",
+            "alt": "typescript-avanzado-mas-alla-de-any_page-0001.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
@@ -320,27 +383,34 @@
       },
       {
         "skill": {
-          "name": "Pensamiento creativo",
+          "name": "Atención al detalle",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Proactividad",
+          "name": "Trabajo en equipo",
           "type": "practice"
         }
       }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/davidzamorarey",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "davidzamorarey@gmail.com"
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "AWS",
-          "type": "technology"
-        },
-        {
-          "name": "Astro",
+          "name": "Angular2+",
           "type": "technology"
         },
         {
@@ -348,15 +418,11 @@
           "type": "technology"
         },
         {
-          "name": "Express",
+          "name": "Git",
           "type": "technology"
         },
         {
-          "name": "Godot",
-          "type": "technology"
-        },
-        {
-          "name": "Google Cloud",
+          "name": "Github",
           "type": "technology"
         },
         {
@@ -364,11 +430,19 @@
           "type": "technology"
         },
         {
-          "name": "MQTT",
+          "name": "JavaScript",
           "type": "technology"
         },
         {
-          "name": "MongoDB",
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "NPM",
+          "type": "technology"
+        },
+        {
+          "name": "NgRx",
           "type": "technology"
         },
         {
@@ -376,34 +450,95 @@
           "type": "technology"
         },
         {
-          "name": "RabbitMQ",
+          "name": "React",
           "type": "technology"
         },
         {
-          "name": "React",
+          "name": "RxJS",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "TestingLibrary",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
           "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "Hibernate",
+          "name": "C",
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "C#",
           "type": "technology"
         },
         {
-          "name": "Spring",
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "Jasmine",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "Karma",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "jQuery",
           "type": "technology"
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
-        "Frontend Developer",
-        "Full-stack Developer"
+        "Frontend Developer"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "NgRx",
+        "type": "technology"
+      },
+      {
+        "name": "RxJS",
+        "type": "technology"
+      },
+      {
+        "name": "TestingLibrary",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría un trabajo en el cual tuviera retos en mi día a día, así como tiempo para formación incluido dentro de mi jornada laboral. Trabajar con un equipo de gente cercana y amable siempre se agradece y hace más ameno tu día a día, así como aprender de otros compañeros en un lugar en el que podamos compartir nuestros conocimientos y ayudar a que los proyectos se lleven a cabo.",
+    "goodPractices": "Siempre intento aplicar buenas prácticas a la hora de desarrollar código, siguiendo los principios SOLID e intentando cuando es posible utilizar TDD.\n\nTener una buena suite de test con la que te puedas cerciorar de que no se ha roto nada al implementar los nuevos cambios en tu código es imprescindible."
   }
 }
