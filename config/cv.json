@@ -9,7 +9,7 @@
       "name": "David",
       "surnames": "Zamora Rey",
       "title": "Frontend Developer",
-      "description": "Soy un programador y desarrollador frontend, comencé mi carrera profesional en 2018, programando con Java, pero una vez que descubrí la web me apasionó y ahora trabajo profesionalmente 100% con Angular. Me gusta curiosear sobre nuevas tecnologias y features incluidas en las versiones nuevas de las que ya conozco, con el objetivo de mejorar mis habilidades y mantenerme siempre al día.  En mis proyectos paralelos intento aprender otras tecnologías como React, Astro y Next.js.",
+      "description": "Soy un programador y desarrollador frontend, comencé mi carrera profesional en 2018, programando con Java, pero una vez que descubrí la web me apasionó y ahora trabajo profesionalmente 100% con Angular. Me gusta curiosear sobre nuevas tecnologias y features incluidas en las mismas, con el objetivo de mejorar mis habilidades y mantenerme siempre al día.  En mis proyectos paralelos intento aprender otras tecnologías como React, Astro y Next.js.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/e9a3a374-117b-4936-8a37-9365d1ac8c55_linkedin-photo-65120.linkedin-photo-65120",
         "alt": "24/07/12/e9a3a374-117b-4936-8a37-9365d1ac8c55_linkedin-photo-65120.linkedin-photo-65120"
@@ -219,55 +219,7 @@
       },
       {
         "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Java",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NgRx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
+          "name": "Typescript",
           "type": "technology"
         }
       },
@@ -279,19 +231,43 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "NgRx",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TestingLibrary",
+          "name": "Jest",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Testing Library",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Node.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       }
