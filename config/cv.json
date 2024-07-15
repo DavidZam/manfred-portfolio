@@ -303,27 +303,13 @@
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Grado en ingenieria informatica, Ingeniería informática",
-        "startDate": "2012-01-01",
-        "institution": {
-          "name": "Facultad de Informática (Universidad Complutense de Madrid)",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/29e5a53e-0c98-4f4e-ac19-a760fb1ba106_linkedin-photo-65120.linkedin-photo-65120",
-            "alt": "24/07/12/29e5a53e-0c98-4f4e-ac19-a760fb1ba106_linkedin-photo-65120.linkedin-photo-65120"
-          }
-        },
-        "finishDate": "2018-01-01"
-      },
-      {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Testing en frontend",
+        "degreeAchieved": true,
+        "name": "Curso cómo testear tus aplicaciones frontend, aplicando buenas prácticas (codely.com)",
         "startDate": "2024-07-01",
         "institution": {
-          "name": "Codely.com",
-          "description": "Curso cómo testear tus aplicaciones frontend, aplicando buenas prácticas",
+          "name": "Testing en frontend",
+          "description": "Curso cómo testear tus aplicaciones frontend, aplicando buenas prácticas (codely.com)",
           "URL": "http://pro.codely.com/library/testing-en-frontend-65916/register/196940/?ic=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGVfdHlwZSI6MSwic2VuZGVyX2lkIjoxOTUwMTM5LCJzY2hvb2xfaWQiOjEzMTcyLCJvZmZlcmluZ19pZCI6MTk2OTQwLCJyb2xlIjo1LCJpYXQiOjE3MjA3OTM1MjV9.wXqG9",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/ecdec319-4a5d-4e93-922f-193707173912_testing-en-frontend_.jpg",
@@ -359,12 +345,54 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "TypeScript Avanzado: Más allá de any",
+        "degreeAchieved": true,
+        "name": "Curso sobre Angular y aplicaciones reactivas usando NgRx y unit testing (udemy.com)",
         "startDate": "2024-03-01",
         "institution": {
-          "name": "Codely.com",
-          "description": "Curso sobre aspectos avanzados de Typescript",
+          "name": "Complete Angular Course 2024",
+          "description": "Curso sobre Angular y aplicaciones reactivas usando NgRx y unit testing (udemy.com)",
+          "URL": "https://www.udemy.com/course/complete-angular-14-course-learn-frontend-development/?couponCode=LETSLEARNNOWPP",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/c55ab719-9e31-47f1-9d63-.jpg",
+            "alt": "typescript-0001.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso sobre enriquecer la definición de funciones con Typescript (codely.com)",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "TypeScript Avanzado: Mejora tu Developer eXperience",
+          "description": "Curso sobre enriquecer la definición de funciones con Typescript (codely.com)",
+          "URL": "http://pro.codely.com/library/typescript-avanzado-mejora-tu-developer-experience-204725/register/524595/?ic=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGVfdHlwZSI6MSwic2VuZGVyX2lkIjoxOTUwMTM5LCJzY2hvb2xfaWQiOjEzMTcyLCJvZmZlcmluZ19pZCI6NTI0NTk1LCJyb2xlIjo1LCJpYXQiOjE3MjEwNjAxNjd9.ukYX_EObMFAL9ABDXmlVK4Yf-YghBAvP96i5bvoMCRM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/c55ab719-9e31-47f1-9d63-.jpg",
+            "alt": "typescript-avanzado-mas-alla-de-any_page-0001.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso sobre aspectos avanzados de Typescript (codely.com)",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "TypeScript Avanzado: Más allá de any",
+          "description": "Curso sobre aspectos avanzados de Typescript (codely.com)",
           "URL": "http://pro.codely.com/library/typescript-avanzado-mas-alla-de-any-182513/register/418230/?ic=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGVfdHlwZSI6MSwic2VuZGVyX2lkIjoxOTUwMTM5LCJzY2hvb2xfaWQiOjEzMTcyLCJvZmZlcmluZ19pZCI6NDE4MjMwLCJyb2xlIjo1LCJpYXQiOjE3M",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/c55ab719-9e31-47f1-9d63-4d576f45dfc1_typescript-avanzado-.jpg",
@@ -377,6 +405,42 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso sobre los principios básicos de la programación orientada a objetos (codely.com)",
+        "startDate": "2023-11-20",
+        "finishDate": "2023-12-30",
+        "institution": {
+          "name": "Principios SOLID aplicados",
+          "description": "Curso sobre los principios básicos de la programación orientada a objetos (codely.com)",
+          "URL": "http://pro.codely.com/library/principios-solid-aplicados-36875/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/c55ab719-9e31-47f1-9d63-4d576f45dfc1_typescript-.jpg",
+            "alt": ""
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Facultad de Informática (Universidad Complutense de Madrid)",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "Grado en ingenieria informatica, Ingeniería informática",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/29e5a53e-0c98-4f4e-ac19-a760fb1ba106_linkedin-photo-65120.linkedin-photo-65120",
+            "alt": "24/07/12/29e5a53e-0c98-4f4e-ac19-a760fb1ba106_linkedin-photo-65120.linkedin-photo-65120"
+          }
+        },
+        "finishDate": "2018-01-01"
       }
     ],
     "softSkills": [
