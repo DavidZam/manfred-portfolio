@@ -1,13 +1,13 @@
 {
-    "recomendations": [
-      {
-        "firstName": "Charles",
-        "lastName": "Xavier",
-        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Professor_Charles_%27X%27_Xavier.png/220px-Professor_Charles_%27X%27_Xavier.png",
-        "company": "Escuela para jóvenes talentos",
-        "jobTitle": "Director",
-        "text": "Coloso es una parte integral de la patrulla y sin el muchos de nuestros esfuerzos hubiesen sido en vano al combatir a cualquiera de los peligros a los que estamos obligados a responder.",
-        "createdAt": "02/19/95, 12:00 PM"
-      }
-    ]
-  }
+  "recomendations": [
+    {
+      "firstName": "Jesus",
+      "lastName": "Loranca",
+      "img": "https://avatars.githubusercontent.com/u/57355644?v=4",
+      "company": "Scalefast",
+      "jobTitle": "Engineer",
+      "text": "Tras dos años trabajando con David puedo decir que es un gran profesional y se adapta a lo que le echen con mucha facilidad. He coincidido con él mientras trabajaba tanto como desarrollador como tech lead y en ambos roles ha tenido un gran desempeño. Es muy atento a los detalles y siempre busca la mayor calidad posible en su codigo, por lo que será una gran aportación a cualquier equipo.",
+      "createdAt": "15/07/24, 17:00 PM"
+    }
+  ]
+}
