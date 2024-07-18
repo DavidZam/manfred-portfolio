@@ -1,29 +1,29 @@
 {
   "recomendations": [
     {
-      "firstName": "Pablo",
-      "lastName": "Pizarro",
-      "img": "https://avatars.githubusercontent.com/u/47445674?v=4",
-      "company": "ESW",
-      "jobTitle": "Engineering manager",
-      "text": "Como colega de David desde hace años, he de decir que ha madurado muchísimo durante nuestra colaboración en Scalefast, pasando por varios equipos, proyectos e incluso empresas distintas. Ávido de conocimiento, la curiosidad le mantiene actualizado en las últimas tecnologías y le gusta probar cosas nuevas que salen de su zona de confort. Su paciencia y templanza le permiten enfrentar cualquier desafío con calma y eficacia, mientras que su detallismo y meticulosidad garantizan resultados de alta calidad en cada proyecto, no por ello comprometiendo su velocidad. Además es bastante flexible y versátil, se ha topado con muchos retos de los que ha salido airoso. Pero si tuviera que destacar algo, es el ambiente amigable y divertido que contagia con su personalidad afable y su excelente sentido del humor. Es sin duda alguna una gran aportación a cualquier equipo de desarrollo.",
-      "createdAt": "16/07/24, 16:00 PM"
-    },
-    {
       "firstName": "Jesus",
       "lastName": "Loranca",
       "img": "https://avatars.githubusercontent.com/u/57355644?v=4",
-      "company": "Scalefast",
+      "company": "Scalefast - Frontend Team",
       "jobTitle": "Engineer",
       "text": "Tras dos años trabajando con David puedo decir que es un gran profesional y se adapta a lo que le echen con mucha facilidad. He coincidido con él mientras trabajaba tanto como desarrollador como tech lead y en ambos roles ha tenido un gran desempeño. Es muy atento a los detalles y siempre busca la mayor calidad posible en su codigo, por lo que será una gran aportación a cualquier equipo.",
       "createdAt": "15/07/24, 17:00 PM"
+    },
+    {
+      "firstName": "Pablo",
+      "lastName": "Pizarro",
+      "img": "https://avatars.githubusercontent.com/u/47445674?v=4",
+      "company": "Scalefast - Product Team",
+      "jobTitle": "Engineering manager",
+      "text": "Como colega de David desde hace años, he de decir que ha madurado muchísimo durante nuestra colaboración en Scalefast, pasando por varios equipos, proyectos e incluso empresas distintas. Ávido de conocimiento, la curiosidad le mantiene actualizado en las últimas tecnologías y le gusta probar cosas nuevas que salen de su zona de confort. Su paciencia y templanza le permiten enfrentar cualquier desafío con calma y eficacia, mientras que su detallismo y meticulosidad garantizan resultados de alta calidad en cada proyecto, no por ello comprometiendo su velocidad. Además es bastante flexible y versátil, se ha topado con muchos retos de los que ha salido airoso. Pero si tuviera que destacar algo, es el ambiente amigable y divertido que contagia con su personalidad afable y su excelente sentido del humor. Es sin duda alguna una gran aportación a cualquier equipo de desarrollo.",
+      "createdAt": "16/07/24, 16:00 PM"
     },
     {
       "firstName": "Francisco",
       "lastName": "Sánchez López",
       "company": "Everis",
       "jobTitle": "Quality Analyst",
-      "text": "Trabajé con David en su etapa en Everis, coincidimos en el mismo proyecto siendo David desarrollador back-end y yo QA funcional del equipo. Profesionalmente puedo decir sobre David que es una persona muy dedicada y perfeccionista. Como QA mi relación con él fue inmejorable, siempre fue comprensivo cuando se le comunicaban las mejoras a realizar y eficaz a la hora de llevar a cabo los desarrollos. Me gustaría destacar la calidad del trabaja que entregaba, haciendo la vida mucho más fácil a los QAs del equipo. Personalmente, desde que nos conocimos en el trabajo, hemos compartido muchos momentos fuera y lo considero muy buen amigo mío. Es una persona con la que es muy fácil llevarse bien y dispuesta siempre a ayudar.",
+      "text": "Trabajé con David en su etapa en Everis, coincidimos en el mismo proyecto siendo David desarrollador y yo QA funcional del equipo. Profesionalmente puedo decir sobre David que es una persona muy dedicada y perfeccionista. Como QA mi relación con él fue inmejorable, siempre fue comprensivo cuando se le comunicaban las mejoras a realizar y eficaz a la hora de llevar a cabo los desarrollos. Me gustaría destacar la calidad del trabaja que entregaba, haciendo la vida mucho más fácil a los QAs del equipo. Personalmente, desde que nos conocimos en el trabajo, hemos compartido muchos momentos fuera y lo considero muy buen amigo mío. Es una persona con la que es muy fácil llevarse bien y dispuesta siempre a ayudar.",
       "createdAt": "17/07/24, 13:00 PM"
     }
   ]
