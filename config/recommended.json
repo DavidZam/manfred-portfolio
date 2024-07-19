@@ -1,6 +1,15 @@
 {
   "recomendations": [
     {
+      "firstName": "Josu",
+      "lastName": "Vazquez",
+      "img": "https://avatars.githubusercontent.com/u/25078974?v=4",
+      "company": "Scalefast - Frontend Team",
+      "jobTitle": "Engineer",
+      "text": "He tenido el placer de trabajar con David en Scalefast, y puedo decir que es una joya en cualquier equipo. Con su amplia experiencia y seniority, David es detallista, organizado y produce código de alta calidad. Siempre encuentra soluciones efectivas y motiva a todos a su alrededor.",
+      "createdAt": "19/07/24, 11:00 AM"
+    },
+    {
       "firstName": "Jesus",
       "lastName": "Loranca",
       "img": "https://avatars.githubusercontent.com/u/57355644?v=4",
